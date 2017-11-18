@@ -1,0 +1,14 @@
+.ticket-details {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.input-fields, .platform {
+  margin-top: 35px; }
+
+.platform {
+  margin-bottom: 30px;}

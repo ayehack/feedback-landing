@@ -1,0 +1,17 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+  margin-bottom: 35px;
+  width: 35%;
+  min-width: 325px;
+  margin: auto;
+  border-radius: 4px;
+  transition: all 1.0s;
+  background-color: rgba(225, 225, 225, 0.65);
+}

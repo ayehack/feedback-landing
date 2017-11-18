@@ -1,0 +1,36 @@
+.icons {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 15px;
+  margin-top: 35px;
+}
+
+.type-toggle, .bug-type, .feature-type {
+  display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+  color: #696969;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.icons:hover {
+  opacity: 0.5;
+}
+
+.type-toggle {
+  margin-top: 15px;
+}
+
+.bug-type {
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.feature-type {
+  flex-direction: column;
+  margin-left: 20px;
+}
